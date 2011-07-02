@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the FCTC Federated Query Endpoints feature.
+ */
+
+include_once('fctc_federated_query_endpoints.features.inc');
